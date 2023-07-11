@@ -1,0 +1,16 @@
+@{Layout=null;}
+<!DOCTYPE html> 
+<html>
+    <head>
+
+    <meta name="viewport" content="width=device-width" />
+    <title>Party!</title>
+    </head>
+    <body>
+        <div>
+            <div>
+                This is RsvpForm.cshtml View
+            </div>
+        </div>
+    </body>
+</html>
